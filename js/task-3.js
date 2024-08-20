@@ -12,8 +12,7 @@
 // console.log(getElementWidth('60px', '12px', '8.5px')); // 101
 // console.log(getElementWidth('200px', '0px', '0px')); // 200
 
-// не знайшла цього в конспекті чи можливо пропустила, аідскажіть де шукати?
-
+// не знайшла цього в конспекті чи можливо пропустила, підскажіть де шукати?
 function getElementWidth(content, padding, border) {
   const contentWidth = Number.parseFloat(content);
   const paddingWidth = Number.parseFloat(padding);
